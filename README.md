@@ -1,0 +1,1 @@
+This To-Do App is a simple Python command line interface that allows users to choose an option from a menu that includes usable features such as adding tasks, viewing tasks, deleting tasks, and quitting the program. This app uses user input to capture user selections and ensures proper input validation to handle invalid choices.
